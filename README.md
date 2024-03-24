@@ -45,6 +45,4 @@ https://github.com/anthony-ngonde
 ### License
 The content of this site is licensed under the MIT license
 Copyright (c) 2018
-# Code-Challenge-
-# Code-Challenge-Project
-# Code-Challenge-Project
+
